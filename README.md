@@ -10,3 +10,5 @@ ProMod is a competition mod used in eSports.
 The project needs a bit of work and requires a mysql database.
 
 If anyone wants to help out fork away but don't forget to send through those pull requests.
+
+Please keep in mind I wrote this back in like 2008 so the code is old and outdated, it uses mootools 1.0 and very basic PHP but it should still work as is.
